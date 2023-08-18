@@ -1,0 +1,2 @@
+# DepremHaritasi
+Türkiye Deprem Haritası 
